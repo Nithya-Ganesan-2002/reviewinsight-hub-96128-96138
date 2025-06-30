@@ -1,0 +1,36 @@
+INFO:     Started server process [2291]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:3001 (Press CTRL+C to quit)
+INFO:     100.64.4.167:46706 - "HEAD /docs HTTP/1.1" 200 OK
+INFO:     100.64.4.167:46720 - "HEAD /docs HTTP/1.1" 200 OK
+INFO:     100.64.4.167:46728 - "HEAD /docs HTTP/1.1" 200 OK
+INFO:     100.64.4.167:46738 - "HEAD /docs HTTP/1.1" 200 OK
+INFO:     100.64.4.167:46744 - "HEAD /docs HTTP/1.1" 200 OK
+INFO:     100.64.4.167:46752 - "HEAD /docs HTTP/1.1" 200 OK
+INFO:     100.64.4.167:46762 - "GET /docs HTTP/1.1" 200 OK
+INFO:     100.64.4.167:46770 - "GET /docs HTTP/1.1" 200 OK
+INFO:     100.64.4.167:46776 - "GET /openapi.json HTTP/1.1" 200 OK
+INFO:     100.64.4.167:46778 - "GET /openapi.json HTTP/1.1" 200 OK
+INFO:     100.64.4.167:46380 - "GET /docs HTTP/1.1" 200 OK
+INFO:     100.64.4.167:46386 - "HEAD /docs HTTP/1.1" 200 OK
+INFO:     100.64.4.167:46392 - "HEAD /docs HTTP/1.1" 200 OK
+INFO:     100.64.4.167:46408 - "GET /docs HTTP/1.1" 200 OK
+INFO:     100.64.4.167:46422 - "GET /docs HTTP/1.1" 200 OK
+INFO:     100.64.4.167:46436 - "GET /docs HTTP/1.1" 200 OK
+INFO:     100.64.4.167:46438 - "GET /openapi.json HTTP/1.1" 200 OK
+INFO:     100.64.4.167:46452 - "GET /openapi.json HTTP/1.1" 200 OK
+INFO:     100.64.4.167:46466 - "GET /docs HTTP/1.1" 200 OK
+INFO:     100.64.4.167:46480 - "GET /openapi.json HTTP/1.1" 200 OK
+INFO:     100.64.4.167:55764 - "HEAD /docs HTTP/1.1" 200 OK
+INFO:     100.64.4.167:55780 - "HEAD /docs HTTP/1.1" 200 OK
+INFO:     100.64.4.167:55796 - "GET /docs HTTP/1.1" 200 OK
+INFO:     100.64.4.167:55798 - "GET /docs HTTP/1.1" 200 OK
+INFO:     100.64.4.167:53862 - "GET /openapi.json HTTP/1.1" 200 OK
+INFO:     100.64.4.167:53874 - "GET /openapi.json HTTP/1.1" 200 OK
+INFO:     100.64.4.167:53876 - "HEAD /docs HTTP/1.1" 200 OK
+INFO:     100.64.4.167:53892 - "HEAD /docs HTTP/1.1" 200 OK
+INFO:     100.64.4.167:53898 - "GET /docs HTTP/1.1" 200 OK
+INFO:     100.64.4.167:53914 - "GET /docs HTTP/1.1" 200 OK
+INFO:     100.64.4.167:53922 - "GET /openapi.json HTTP/1.1" 200 OK
+INFO:     100.64.4.167:53930 - "GET /openapi.json HTTP/1.1" 200 OK
